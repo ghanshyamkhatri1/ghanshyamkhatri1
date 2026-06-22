@@ -40,8 +40,3 @@ Here are the technologies I work with daily:
 
 ---
 
-### 📊 GitHub Stats
-
-| My Stats | Top Languages |
-| :---: | :---: |
-| <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=ghanshyamkhatri1&show_icons=true&theme=radial" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=ghanshyamkhatri1&layout=compact&theme=radial" alt="Top Langs" width="400"/> |
