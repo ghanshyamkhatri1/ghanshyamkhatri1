@@ -4,7 +4,7 @@
 I am a Computer Engineering student at Kathmandu University, passionate about building clean, interactive full-stack web applications and exploring computer networking infrastructure.
 
 * 🌍 Based in **Nepal**
-* ✉️ Contact me at **[ghanashyamkhatri958@gmail.com]**
+* ✉️ Contact me at **ghanashyamkhatri958@gmail.com**
 * 🧠 Currently focused on **React, Tailwind CSS, Framer Motion, and Network Architecture**
 * 🤝 I’m looking to collaborate on **Web Development and Open Source Projects**
 
@@ -41,8 +41,7 @@ Here are the technologies I work with daily:
 ---
 
 ### 📊 GitHub Stats
-*Note: Replace `ghanshyamkhatri1` in the links below with your exact GitHub username to activate the stats charts live!*
 
 | My Stats | Top Languages |
 | :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=ghanshyamkhatri1&show_icons=true&theme=radial" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghanshyamkhatri1&layout=compact&theme=radial" alt="Top Langs" width="400"/> |
+| <img src="https://github-readme-stats-six-alpha.vercel.app/api?username=ghanshyamkhatri1&show_icons=true&theme=radial" alt="GitHub Stats" width="400"/> | <img src="https://github-readme-stats-six-alpha.vercel.app/api/top-langs/?username=ghanshyamkhatri1&layout=compact&theme=radial" alt="Top Langs" width="400"/> |
